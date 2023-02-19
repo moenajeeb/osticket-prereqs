@@ -31,7 +31,7 @@ This tutorial touches on the prerequisites and installation of the help desk tic
 <p>
 Greetings and welcome to my first tutorial of many! The first thing to do is to create a virtual machine in the Microsoft Azure Portal. We'll use a virtual machine that is a remote computer essentially. Create a resource group and title it anything you'd like. I personally named my resource group "RG-LAB02" Then we will create a virtual machine with 2-4 CPUs. I personally chose a VM with two CPUs. When creating the VM, allow it to create a Virtual Network (Vnet)
   
- <img src="https://i.imgur.com/SaGJWwR.png" height="80%" width="80%"/>
+<img src="https://i.imgur.com/SaGJWwR.png" height="80%" width="80%"/>
  <img src="https://i.imgur.com/x3Nr0P7.png" height="80%" width="80%"/>
 </p>
 <br />
